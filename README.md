@@ -18,6 +18,7 @@ This repository contains a comprehensive analysis of wine quality using machine 
 - K-Nearest Neighbors (KNN)
 - Linear Regression
 - Support Vector Machines (SVM)
+- Decision Tree
 
 ## 📈 Evaluation Metrics
 
